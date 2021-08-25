@@ -1,6 +1,6 @@
 <template>
   <v-app>
-    <v-toolbar app color="blue" dark>
+    <v-toolbar app color="grey" dark>
       <v-toolbar-title class="headline text-uppercase">
         <span>GraphQL</span>
         <span class="font-weight-light">Client</span>
