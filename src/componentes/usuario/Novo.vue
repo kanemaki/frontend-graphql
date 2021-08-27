@@ -79,10 +79,11 @@ export default {
     },
     methods: {
         novoUsuario() {
-            // implementar
+            // implementar..
         },
         obterPerfis() {
-            // implementar
+            // implementar..
+            
         }
     }
 }
